@@ -34,7 +34,7 @@ def hello_world():
     #ip_ad = request.remote_addr
 
     return 'REST TEST' 
-
+#new
 
 #PoST CALL with IMAGE
 @app.route('/image',methods=['GET', 'POST'])
